@@ -55,6 +55,7 @@
  To run `Group47_TrainAndDev_B.ipynb`, file and path needed:
  
  file:
- * `model_weights.keras`
+ * `model_weights.keras` can be downloaded from `https://github.com/HaojingTONG/Group47`
+
  path:
  * "./test_data/NLI/test.csv"

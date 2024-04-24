@@ -1,6 +1,6 @@
-# COMP34812 Natural Language Understanding Coursework Natural Language Inference Method A
+# COMP34812 Natural Language Understanding Coursework (Natural Language Inference)
 
-## data sources or code bases used
+## data sources or code bases used(Method A)
 
 * pandas
 * numpy

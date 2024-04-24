@@ -55,7 +55,7 @@
  To run `Group47_TrainAndDev_B.ipynb`, file and path needed:
  
  file:
- * `model_weights.keras` can be downloaded from `https://github.com/HaojingTONG/Group47`
+ * `model_weights.keras` can be downloaded from `https://github.com/HaojingTONG/Group47`. Can you please download the keras file from the github and copy it to the work repository, and then it could be loaded correctly in the `Group47_Demo_B.ipynb`
 
  path:
  * "./test_data/NLI/test.csv"
